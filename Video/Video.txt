@@ -1,1 +1,6 @@
-video
+Video CRUD con Java
+
+https://www.youtube.com/watch?v=aVUvX6K0fb4
+
+Examen Integrador Full Stack JAVA - Codo a Codo
+Gloria Ruth Alonso Olivera
